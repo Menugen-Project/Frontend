@@ -45,7 +45,7 @@
         android:textColor="@color/black"
         android:gravity="center"/>
 
-<!--    입력란-->
+    // 입력란
 
     <LinearLayout
         android:layout_width="350dp"
